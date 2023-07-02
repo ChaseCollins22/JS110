@@ -1,4 +1,5 @@
 /* eslint-disable max-len */
+
 // PROBLEM:
 
 // Given a string, write a function `palindromeSubstrings` which returns
@@ -18,11 +19,6 @@
 //
 // console.log(palindromeSubstrings(""))
 // should log: []
-
-
-
-
-
 // input: string
 // output: array of strings 
 // rules:
